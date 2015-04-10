@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">medienbewusst.de</string>
+    <string name="title_artikel_detail">Artikel Detail</string>
+    <string name="title_thema_list">Themen</string>
+    <string name="title_thema_detail">Thema Detail</string>
+
+</resources>
